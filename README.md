@@ -16,6 +16,8 @@ If you use the provided code for your work, please cite the following paper:
 Fernández, A., García, R., Usamentiaga, R., & Casado, R. (2015). Glasses detection on real images based on robust alignment. Machine Vision and Applications, 1-13.
 http://link.springer.com/article/10.1007/s00138-015-0674-1
 
+This Readme file is created with http://prose.io 
+
 
 
 
