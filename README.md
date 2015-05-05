@@ -13,6 +13,7 @@ http://answers.opencv.org/question/24670/how-can-i-align-face-images/
 
 This code is part of the project 'Glasses detection on real images based on robust alignment'.
 
+![alt tag](https://raw.githubusercontent.com/albertofernandezvillan/face-alignment/master/alignment.png)
 
 
 ### Citation
