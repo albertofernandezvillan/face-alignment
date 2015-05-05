@@ -11,8 +11,12 @@ outer eye. After that, faces are rotated and aligned in the images so that eyes 
 For more information, you can see this post on opencv Q&A:
 http://answers.opencv.org/question/24670/how-can-i-align-face-images/
 
+This code is part of the project 'Glasses detection on real images based on robust alignment'.
+
+
+
 ### Citation
-This code is part of the project 'Glasses detection on real images based on robust alignment'. Therefore, if you use the provided code for your work, please cite the following paper:
+If you use the provided code for your work, please cite the following paper:
 
 Fernández, A., García, R., Usamentiaga, R., & Casado, R. (2015).**Glasses detection on real images based on robust alignment**. Machine Vision and Applications, 1-13.
 
