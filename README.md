@@ -28,7 +28,7 @@ Fernández, A., García, R., Usamentiaga, R., & Casado, R. (2015).**Glasses dete
     pages={1--13},
     year={2015},
     publisher={Springer}
-  }
+    }
 
 http://link.springer.com/article/10.1007/s00138-015-0674-1
 
