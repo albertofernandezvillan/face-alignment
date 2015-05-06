@@ -21,6 +21,15 @@ If you use the provided code for your work, please cite the following paper:
 
 Fernández, A., García, R., Usamentiaga, R., & Casado, R. (2015).**Glasses detection on real images based on robust alignment**. Machine Vision and Applications, 1-13.
 
+    @article{fernandez2015glasses,
+    title={Glasses detection on real images based on robust alignment},
+    author={Fern{\'a}ndez, Alberto and Garc{\'\i}a, Rodrigo and Usamentiaga, Rub{\'e}n and Casado, Rub{\'e}n},
+    journal={Machine Vision and Applications},
+    pages={1--13},
+    year={2015},
+    publisher={Springer}
+  }
+
 http://link.springer.com/article/10.1007/s00138-015-0674-1
 
 This Readme file is created with http://prose.io 
