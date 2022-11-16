@@ -1,4 +1,4 @@
-# face-alignment
+# face-alignment 
 
 ### Introduction
 Alignment step of a face recognition algorithm is often ignored or not detailed. In some cases, the alignment is done manually, where the positions of the eyes are manually labeled. In other cases, this step is ignored, under the assumption that the face detection algorithm will perform some kind of alignment.
@@ -34,7 +34,7 @@ Fernández, A., García, R., Usamentiaga, R., & Casado, R. (2015).**Glasses dete
 
 http://link.springer.com/article/10.1007/s00138-015-0674-1
 
-This Readme file is created with http://prose.io
+Note: This Readme file is created with http://prose.io
 
 
 
